@@ -2318,8 +2318,8 @@
 		"notes": "Rodzina jest prawdopodobnie wzorowana na gangu Crips w South Los Angeles, ponieważ kontrolują zachodnią stronę South LS, podobnie jak Crips w prawdziwym życiu. Noszą również ubrania z literami C na nich i noszą zielony kolor, ponieważ Rockstar zamienił kolory drugorzędne Cripsów i Bloodsów. Nazwa gangu wydaje się jednak być luźnym odniesieniem do Bloodsów rodzina i krew",
 		"wiki_link": "https://discord.gg/T7Aw7Gq5Yk",
 		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
+		"strokecolor": "8cff32",
+		"fillcolor": "8cff32",
 		"latlngarray": [
 			{"lat": -71.739, "lng": -21.466},
 			{"lat": -73.163, "lng": -15.709},
@@ -2379,6 +2379,32 @@
 			{"lat": -73.841, "lng": 0.587},
 			{"lat": -73.439, "lng": -1.258}
 		]
+	},
+
+	{
+		"type": "Territories",
+		"title": "Black Death",
+		"notes": "ooc admin 1 doda pozniej",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "808080",
+		"fillcolor": "808080",
+		"latlngarray": [
+			{"lat": -66.830, "lng": -33.024},
+			{"lat": -66.891, "lng": -30.717},
+			{"lat": -68.476, "lng": -30.783},
+			{"lat": -68.843, "lng": -31.068},
+			{"lat": -69.453, "lng": -31.574},
+			{"lat": -69.881, "lng": -32.826},
+			{"lat": -69.919, "lng": -33.837},
+			{"lat": -69.584, "lng": -34.386},
+			{"lat": -68.500, "lng": -36.693},
+			{"lat": -67.871, "lng": -34.122},
+			{"lat": -67.697, "lng": -33.639},
+			{"lat": -67.293, "lng": -33.265}
+		]
 	}
+
+
 
 ]
