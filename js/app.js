@@ -105,7 +105,7 @@ $(function() {
 			name: 'Neighborhoods',
 			icon: 'radar/radar_warehouse.png',
 			type: 'General',
-			enabled: true,
+			enabled: false,
 		},
 		{
 			name: 'Territories',
