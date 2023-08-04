@@ -2284,5 +2284,101 @@
 			{"lat": -55.791, "lng": 13.542},
 			{"lat": -55.206, "lng": 14.684}
 		]
+	},
+
+	{
+		"type": "Territories",
+		"title": "Nightmare",
+		"notes": "Mafia",
+		"wiki_link": "https://discord.gg/jxeRfnhfy6",
+		"order": 0,
+		"strokecolor": "739BD0",
+		"fillcolor": "739BD0",
+		"latlngarray": [
+			{"lat": 7.192, "lng": -64.446},
+			{"lat": 3.649, "lng": -69.895},
+			{"lat": 1.147, "lng": -72.532},
+			{"lat": -2.105, "lng": -73.499},
+			{"lat": -4.824, "lng": -74.509},
+			{"lat": -8.533, "lng": -74.202},
+			{"lat": -12.078, "lng": -73.411},
+			{"lat": -12.722, "lng": -69.851},
+			{"lat": -11.691, "lng": -66.995},
+			{"lat": -9.835, "lng": -64.007},
+			{"lat": -6.398, "lng": -61.941},
+			{"lat": -2.719, "lng": -60.886},
+			{"lat": 0.400, "lng": -59.788},
+			{"lat": 4.570, "lng": -60.974}
+		]
+	},
+
+	{
+		"type": "Territories",
+		"title": "Families",
+		"notes": "Rodzina jest prawdopodobnie wzorowana na gangu Crips w South Los Angeles, ponieważ kontrolują zachodnią stronę South LS, podobnie jak Crips w prawdziwym życiu. Noszą również ubrania z literami C na nich i noszą zielony kolor, ponieważ Rockstar zamienił kolory drugorzędne Cripsów i Bloodsów. Nazwa gangu wydaje się jednak być luźnym odniesieniem do Bloodsów rodzina i krew",
+		"wiki_link": "https://discord.gg/T7Aw7Gq5Yk",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -71.739, "lng": -21.466},
+			{"lat": -73.163, "lng": -15.709},
+			{"lat": -71.265, "lng": -10.392},
+			{"lat": -70.988, "lng": -11.820},
+			{"lat": -71.045, "lng": -18.368}
+		]
+	},
+
+	{
+		"type": "Territories",
+		"title": "19th Street Brotherhood",
+		"notes": "Gang 19 Street Brotherhood jest ekipą młodych chłopaków z osiedla która swoje początku miała już w 2003 roku. Młodzi gangsterzy głównie specjalizują się w bójkach ulicznych tzw. solówkach czy też ustawkach na większą skale, to w tym kierunku próbują iść jak najbardziej się da gdyż są oni nauczeni walki do końca, oprócz tego można ich często zauważyć na osiedlu jarających czy to jak biegają po osiedlu i handlują towarem. Kradzież aut to również coś w czym specjalizuje się ta grupa młodych chłopaków, natomiast głównym kolorem gangu jest żółty dlatego iż żółty kolor ma dla nich znaczenie które nie jest znane innym.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/<edit this>",
+		"order": 0,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": -71.632, "lng": 0.227},
+			{"lat": -71.604, "lng": -1.421},
+			{"lat": -72.385, "lng": -5.530},
+			{"lat": -73.318, "lng": -1.816},
+			{"lat": -72.432, "lng": 0.469},
+			{"lat": -72.009, "lng": 0.315}
+		]
+	},
+
+	{
+		"type": "Territories",
+		"title": "Marabunta Grande",
+		"notes": "Są mocno zaangażowane w przemyt narkotyków i są obecnie w wojnie z meksykańskim gangiem Varrios Los Aztecas o handel narkotykami, przemyt narkotyków i broń w Blaine County. Weazel News poinformował również, że niedawno doszło do strzelaniny między dwoma gangami na pustyni Grand Senora.",
+		"wiki_link": "https://discord.gg/yz6wF2cz",
+		"order": 0,
+		"strokecolor": "6fa8dc",
+		"fillcolor": "6fa8dc",
+		"latlngarray": [
+			{"lat": -72.432, "lng": 22.375},
+			{"lat": -73.261, "lng": 17.256},
+			{"lat": -74.819, "lng": 19.563},
+			{"lat": -74.286, "lng": 26.330}
+		]
+	},
+
+	{
+		"type": "Territories",
+		"title": "Asian Boyz Crips",
+		"notes": "ooc: admin 1 doda póżniej",
+		"wiki_link": "https://discord.gg/j6SsHDDHWc",
+		"order": 0,
+		"strokecolor": "073763",
+		"fillcolor": "073763",
+		"latlngarray": [
+			{"lat": -74.300, "lng": -3.917},
+			{"lat": -74.912, "lng": -1.456},
+			{"lat": -74.635, "lng": -0.424},
+			{"lat": -74.318, "lng": -0.665},
+			{"lat": -73.841, "lng": 0.587},
+			{"lat": -73.439, "lng": -1.258}
+		]
 	}
+
 ]
