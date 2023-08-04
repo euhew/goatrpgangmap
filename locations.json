@@ -2251,18 +2251,38 @@
 	{
 		"type": "Territories",
 		"title": "Yakuza",
-		"notes": "Yakuza (jap. やくざ) lub gokudō (jap. 極道, 獄道) – yakuza, gangster, hazardzista, członek tradycyjnych japońskich grup przestępczych",
+		"notes": "Yakuza to japońska grupa przestępcza, która istnieje od XVII wieku. Jest to największa i najsilniejsza organizacja przestępcza w Japonii, zrzeszająca ponad 30 tysięcy członków. Yakuza jest zaangażowana w szeroki zakres działalności przestępczej, w tym handel narkotykami, hazard, wymuszenia, prostytucję, przemyt i lichwę.",
 		"wiki_link": "https://discord.gg/YhG98x3Z",
-		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
+		"order": 1,
+		"strokecolor": "112e2e",
+		"fillcolor": "112e2e",
 		"latlngarray": [
-			{"lat": -51.091, "lng": -63.678},
-			{"lat": -52.088, "lng": -56.427},
-			{"lat": -49.520, "lng": -55.033},
-			{"lat": -48.380, "lng": -46.398},
-			{"lat": -45.623, "lng": -45.892},
-			{"lat": -48.234, "lng": -56.747}
+			{"lat": -51.181, "lng": -63.572},
+			{"lat": -52.067, "lng": -56.475},
+			{"lat": -49.555, "lng": -55.090},
+			{"lat": -48.255, "lng": -46.323},
+			{"lat": -45.677, "lng": -46.104},
+			{"lat": -45.646, "lng": -53.552},
+			{"lat": -46.801, "lng": -55.771},
+			{"lat": -48.474, "lng": -57.200},
+			{"lat": -49.527, "lng": -59.023},
+			{"lat": -50.305, "lng": -61.243}
+		]
+	},
+
+	{
+		"type": "Territories",
+		"title": "The Lost MC",
+		"notes": "Według strony internetowej The Lost, klub powstał w 1964 roku z ośmiu marines USA, którzy spotkali się podczas wojny w Wietnamie w Hanoi w Wietnamie Północnym. Po zakończeniu wojny nadal pragnęli narkotyków i przemocy. Z tego powodu założyli klub i nazwali go „The Lost” na cześć wszystkich swoich przyjaciół, którzy zginęli w wojnie.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/<edit this>",
+		"order": 0,
+		"strokecolor": "000000",
+		"fillcolor": "000000",
+		"latlngarray": [
+			{"lat": -54.510, "lng": 13.476},
+			{"lat": -55.294, "lng": 12.048},
+			{"lat": -55.791, "lng": 13.542},
+			{"lat": -55.206, "lng": 14.684}
 		]
 	}
 ]

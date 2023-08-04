@@ -105,7 +105,7 @@ $(function() {
 			name: 'Neighborhoods',
 			icon: 'radar/radar_warehouse.png',
 			type: 'General',
-			enabled: false,
+			enabled: true,
 		},
 		{
 			name: 'Territories',
@@ -113,6 +113,7 @@ $(function() {
 			type: 'General',
 			enabled: true,
 		},
+		/*
 		{
 			name: 'Neutral',
 			icon: 'General/glitches.png',
