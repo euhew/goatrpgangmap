@@ -2246,5 +2246,23 @@
 			{"lat": 5.784, "lng": 37.705},
 			{"lat": 5.784, "lng": 30.489}
 		]
+	},
+
+	{
+		"type": "Territories",
+		"title": "Yakuza",
+		"notes": "Yakuza (jap. やくざ) lub gokudō (jap. 極道, 獄道) – yakuza, gangster, hazardzista, członek tradycyjnych japońskich grup przestępczych",
+		"wiki_link": "https://discord.gg/YhG98x3Z",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -51.091, "lng": -63.678},
+			{"lat": -52.088, "lng": -56.427},
+			{"lat": -49.520, "lng": -55.033},
+			{"lat": -48.380, "lng": -46.398},
+			{"lat": -45.623, "lng": -45.892},
+			{"lat": -48.234, "lng": -56.747}
+		]
 	}
 ]
