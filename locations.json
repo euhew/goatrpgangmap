@@ -2250,180 +2250,19 @@
 
 	{
 		"type": "Territories",
-		"title": "Yakuza",
-		"notes": "Yakuza to japońska grupa przestępcza, która istnieje od XVII wieku. Jest to największa i najsilniejsza organizacja przestępcza w Japonii, zrzeszająca ponad 30 tysięcy członków. Yakuza jest zaangażowana w szeroki zakres działalności przestępczej, w tym handel narkotykami, hazard, wymuszenia, prostytucję, przemyt i lichwę.",
-		"wiki_link": "https://discord.gg/YhG98x3Z",
+		"title": "W/S Asian Criminals Gang",
+		"notes": "W/S Asian Criminals Gang",
 		"order": 1,
 		"strokecolor": "112e2e",
 		"fillcolor": "112e2e",
 		"latlngarray": [
-			{"lat": -51.181, "lng": -63.572},
-			{"lat": -52.067, "lng": -56.475},
-			{"lat": -49.555, "lng": -55.090},
-			{"lat": -48.255, "lng": -46.323},
-			{"lat": -45.677, "lng": -46.104},
-			{"lat": -45.646, "lng": -53.552},
-			{"lat": -46.801, "lng": -55.771},
-			{"lat": -48.474, "lng": -57.200},
-			{"lat": -49.527, "lng": -59.023},
-			{"lat": -50.305, "lng": -61.243}
-		]
-	},
-
-	{
-		"type": "Territories",
-		"title": "The Lost MC",
-		"notes": "Według strony internetowej The Lost, klub powstał w 1964 roku z ośmiu marines USA, którzy spotkali się podczas wojny w Wietnamie w Hanoi w Wietnamie Północnym. Po zakończeniu wojny nadal pragnęli narkotyków i przemocy. Z tego powodu założyli klub i nazwali go „The Lost” na cześć wszystkich swoich przyjaciół, którzy zginęli w wojnie.",
-		"wiki_link": "https://discord.gg/wMdSS7WM",
-		"order": 0,
-		"strokecolor": "000000",
-		"fillcolor": "000000",
-		"latlngarray": [
-			{"lat": -54.510, "lng": 13.476},
-			{"lat": -55.294, "lng": 12.048},
-			{"lat": -55.791, "lng": 13.542},
-			{"lat": -55.206, "lng": 14.684}
-		]
-	},
-
-	{
-		"type": "Territories",
-		"title": "Nightmare",
-		"notes": "Mafia",
-		"wiki_link": "https://discord.gg/jxeRfnhfy6",
-		"order": 0,
-		"strokecolor": "739BD0",
-		"fillcolor": "739BD0",
-		"latlngarray": [
-			{"lat": 7.192, "lng": -64.446},
-			{"lat": 3.649, "lng": -69.895},
-			{"lat": 1.147, "lng": -72.532},
-			{"lat": -2.105, "lng": -73.499},
-			{"lat": -4.824, "lng": -74.509},
-			{"lat": -8.533, "lng": -74.202},
-			{"lat": -12.078, "lng": -73.411},
-			{"lat": -12.722, "lng": -69.851},
-			{"lat": -11.691, "lng": -66.995},
-			{"lat": -9.835, "lng": -64.007},
-			{"lat": -6.398, "lng": -61.941},
-			{"lat": -2.719, "lng": -60.886},
-			{"lat": 0.400, "lng": -59.788},
-			{"lat": 4.570, "lng": -60.974}
-		]
-	},
-
-	{
-		"type": "Territories",
-		"title": "Families",
-		"notes": "Rodzina jest prawdopodobnie wzorowana na gangu Crips w South Los Angeles, ponieważ kontrolują zachodnią stronę South LS, podobnie jak Crips w prawdziwym życiu. Noszą również ubrania z literami C na nich i noszą zielony kolor, ponieważ Rockstar zamienił kolory drugorzędne Cripsów i Bloodsów. Nazwa gangu wydaje się jednak być luźnym odniesieniem do Bloodsów rodzina i krew",
-		"wiki_link": "https://discord.gg/T7Aw7Gq5Yk",
-		"order": 0,
-		"strokecolor": "8cff32",
-		"fillcolor": "8cff32",
-		"latlngarray": [
-			{"lat": -71.739, "lng": -21.466},
-			{"lat": -73.163, "lng": -15.709},
-			{"lat": -71.265, "lng": -10.392},
-			{"lat": -70.988, "lng": -11.820},
-			{"lat": -71.045, "lng": -18.368}
-		]
-	},
-
-	{
-		"type": "Territories",
-		"title": "19th Street Brotherhood",
-		"notes": "Gang 19 Street Brotherhood jest ekipą młodych chłopaków z osiedla która swoje początku miała już w 2003 roku. Młodzi gangsterzy głównie specjalizują się w bójkach ulicznych tzw. solówkach czy też ustawkach na większą skale, to w tym kierunku próbują iść jak najbardziej się da gdyż są oni nauczeni walki do końca, oprócz tego można ich często zauważyć na osiedlu jarających czy to jak biegają po osiedlu i handlują towarem. Kradzież aut to również coś w czym specjalizuje się ta grupa młodych chłopaków, natomiast głównym kolorem gangu jest żółty dlatego iż żółty kolor ma dla nich znaczenie które nie jest znane innym.",
-		"wiki_link": "https://nopixel.fandom.com/wiki/<edit this>",
-		"order": 0,
-		"strokecolor": "FFD700",
-		"fillcolor": "FFD700",
-		"latlngarray": [
-			{"lat": -71.632, "lng": 0.227},
-			{"lat": -71.604, "lng": -1.421},
-			{"lat": -72.385, "lng": -5.530},
-			{"lat": -73.318, "lng": -1.816},
-			{"lat": -72.432, "lng": 0.469},
-			{"lat": -72.009, "lng": 0.315}
-		]
-	},
-
-	{
-		"type": "Territories",
-		"title": "Marabunta Grande",
-		"notes": "Są mocno zaangażowane w przemyt narkotyków i są obecnie w wojnie z meksykańskim gangiem Varrios Los Aztecas o handel narkotykami, przemyt narkotyków i broń w Blaine County. Weazel News poinformował również, że niedawno doszło do strzelaniny między dwoma gangami na pustyni Grand Senora.",
-		"wiki_link": "https://discord.gg/yz6wF2cz",
-		"order": 0,
-		"strokecolor": "6fa8dc",
-		"fillcolor": "6fa8dc",
-		"latlngarray": [
-			{"lat": -72.432, "lng": 22.375},
-			{"lat": -73.261, "lng": 17.256},
-			{"lat": -74.819, "lng": 19.563},
-			{"lat": -74.286, "lng": 26.330}
-		]
-	},
-
-	{
-		"type": "Territories",
-		"title": "Asian Boyz Crips",
-		"notes": "ooc: admin 1 doda póżniej",
-		"wiki_link": "https://discord.gg/j6SsHDDHWc",
-		"order": 0,
-		"strokecolor": "073763",
-		"fillcolor": "073763",
-		"latlngarray": [
-			{"lat": -73.936, "lng": 0.558},
-			{"lat": -74.368, "lng": -0.189},
-			{"lat": -74.627, "lng": -0.123},
-			{"lat": -74.869, "lng": -0.804},
-			{"lat": -75.035, "lng": -1.331},
-			{"lat": -75.603, "lng": -3.946},
-			{"lat": -75.690, "lng": -3.485},
-			{"lat": -75.383, "lng": -0.584},
-			{"lat": -75.187, "lng": 0.998},
-			{"lat": -74.938, "lng": 1.723},
-			{"lat": -74.190, "lng": 2.118}
-		]
-	},
-
-	{
-		"type": "Territories",
-		"title": "Black Death",
-		"notes": "ooc admin 1 doda pozniej",
-		"wiki_link": "",
-		"order": 0,
-		"strokecolor": "808080",
-		"fillcolor": "808080",
-		"latlngarray": [
-			{"lat": -66.830, "lng": -33.024},
-			{"lat": -66.891, "lng": -30.717},
-			{"lat": -68.476, "lng": -30.783},
-			{"lat": -68.843, "lng": -31.068},
-			{"lat": -69.453, "lng": -31.574},
-			{"lat": -69.881, "lng": -32.826},
-			{"lat": -69.919, "lng": -33.837},
-			{"lat": -69.584, "lng": -34.386},
-			{"lat": -68.500, "lng": -36.693},
-			{"lat": -67.871, "lng": -34.122},
-			{"lat": -67.697, "lng": -33.639},
-			{"lat": -67.293, "lng": -33.265}
-		]
-	},
-
-	{
-		"type": "Territories",
-		"title": "Bloods",
-		"notes": "ooc admin 1 doda pozniej",
-		"wiki_link": "",
-		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
-		"latlngarray": [
-			{"lat": -75.314, "lng": -6.869},
-			{"lat": -76.341, "lng": -9.901},
-			{"lat": -76.429, "lng": -9.023},
-			{"lat": -76.547, "lng": -8.012},
-			{"lat": -75.688, "lng": -5.067}
+			{"lat": -65.425, "lng": -39.470},
+			{"lat": -66.630, "lng": -39.470},
+			{"lat": -65.475, "lng": -36.657},
+			{"lat": -66.301, "lng": -36.800},
+			{"lat": -66.678, "lng": -37.152},
+			{"lat": -67.049, "lng": -37.767},
+			{"lat": -67.250, "lng": -38.624},
 		]
 	}
 ]
